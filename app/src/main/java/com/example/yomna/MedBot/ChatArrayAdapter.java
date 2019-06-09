@@ -1,9 +1,5 @@
 package com.example.yomna.MedBot;
 
-/**
- * Created by Yomna on 12/1/2017.
- */
-
 import android.content.Context;
 import android.icu.text.LocaleDisplayNames;
 import android.support.v7.widget.LinearLayoutManager;
