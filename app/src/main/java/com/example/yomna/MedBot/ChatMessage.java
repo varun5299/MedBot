@@ -1,9 +1,5 @@
 package com.example.yomna.MedBot;
 
-/**
- * Created by Yomna on 12/1/2017.
- */
-
 public class ChatMessage {
     public int isMine;
     public String message;
